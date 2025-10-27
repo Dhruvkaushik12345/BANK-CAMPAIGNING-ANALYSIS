@@ -1,4 +1,4 @@
-Analysis of Bank Customer Segmentation and Campaigns
+                                        Analysis of Bank Customer Segmentation and Campaigns
  
  1. Project Introduction: 
  The goal of this project is to measure the efficacy of campaigns and identify lucrative segments by analyzing customer data.
@@ -28,5 +28,6 @@ ________________________________________
  • Assisted in determining the best target demographics for upcoming advertising campaigns.
  • Made it possible for the bank to concentrate on clientele with a greater likelihood of conversion.
  • Encourages data-driven decision-making to increase customer engagement and marketing return on investment.
+
 
 
